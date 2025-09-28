@@ -1,7 +1,7 @@
 # RapidReader
 # Dhaka Metro Rail MRT & RAPID Pass Felica Card Reader
 
-A macOS/iOS app to read and display the latest balance and recent transactions from Dhaka Metro Rail MRT and RAPID Pass Felica cards. Instantly view the card's current balance and the last 10 transactions, including commuter rides and balance updates.
+A iOS app to read and display the latest balance and recent transactions from Dhaka Metro Rail MRT and RAPID Pass Felica cards. Instantly view the card's current balance and the last 10 transactions, including commuter rides and balance updates.
 
 ## Features
 
@@ -29,5 +29,10 @@ A macOS/iOS app to read and display the latest balance and recent transactions f
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/yourusername/dhaka-metro-rail-rapid-pass-reader.git
-    cd dhaka-metro-rail-rapid-pass-reader
+    git clone https://github.com/KayesSSL/RapidReader.git
+    cd RapidReader
+    
+## Credits
+
+This project is a port of [mrt-buddy](https://github.com/aniruddha-adhikary/mrt-buddy) by [aniruddha-adhikary](https://github.com/aniruddha-adhikary) to iOS.  
+All credit for the original concept goes to the original author.
