@@ -94,7 +94,7 @@ extension ViewController: UITableViewDelegate, UITableViewDataSource {
         
         // Set amount (show minus for fare, plus for top-up)
         cell.amountLbl.text = "৳ \(displayTx.amount)"
-        cell.amountLbl.textColor = displayTx.amount < 0 ? .systemRed : .label // Red for fare, default for top-up
+        cell.amountLbl.textColor = displayTx.amount < 0 ? .systemRed : .systemGreen // Red for fare, default for top-up
         
         return cell
     }
