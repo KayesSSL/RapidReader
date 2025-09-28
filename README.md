@@ -1,7 +1,7 @@
 # RapidReader
 # Dhaka Metro Rail MRT & RAPID Pass Felica Card Reader
 
-A iOS app to read and display the latest balance and recent transactions from Dhaka Metro Rail MRT and RAPID Pass Felica cards. Instantly view the card's current balance and the last 10 transactions, including commuter rides and balance updates.
+An iOS app to read and display the latest balance and recent transactions from Dhaka Metro Rail MRT and RAPID Pass Felica cards. Instantly view the card's current balance and the last 10 transactions, including commuter rides and balance updates.
 
 ## Features
 
